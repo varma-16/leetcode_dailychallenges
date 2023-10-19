@@ -1,0 +1,24 @@
+link:
+
+https://leetcode.com/problems/parallel-courses-iii/description/?envType=daily-question&envId=2023-10-18
+
+
+
+Solution I saw :
+
+https://www.youtube.com/watch?v=c8K7jF9BFL4
+
+
+
+It is based on bfs and indegree[] 
+
+
+Another related questions are like:
+
+Sort Items by group:
+
+https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/
+
+Find Eventual Safe Status:
+
+https://leetcode.com/problems/find-eventual-safe-states/description/
